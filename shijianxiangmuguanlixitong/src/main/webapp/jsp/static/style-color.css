@@ -1,0 +1,10 @@
+/*定义全局css*/
+body {
+
+	/* 蓝 */
+    /* 2 全局公共主颜色 */
+    --publicMainColor:  #07588D;
+    /* 2 全局公共副颜色 */
+    --publicSubColor: #4477C5;
+
+}
